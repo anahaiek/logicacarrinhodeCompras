@@ -1,11 +1,11 @@
 ## Objetivo
 Criar um carrinho de compras inspirado no da Shopee, capaz de adicionar, remover e listar produtos, além de atualizar automaticamente as quantidades e calcular os subtotais e o valor total da compra.
 
-#Vídeo do funcionamento:
+# Vídeo do funcionamento:
 
 https://github.com/user-attachments/assets/17b0007c-910a-4eb5-9160-5c3560aa9f56
 
-###Tecnologias utilizadas
+### Tecnologias utilizadas
 
 JavaScript (ES Modules)
 👉 Linguagem principal do projeto, usando import/export
